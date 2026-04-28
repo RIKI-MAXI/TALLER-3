@@ -1,0 +1,11 @@
+/* --- CUSTOM PROPERTIES --- */
+:root {
+    --color-primario: #0ea5e9;         /* Celeste Dinámico */
+    --color-secundario: #0f172a;       /* Azul Oscuro Elegante */
+    --color-fondo: #f8fafc;            /* Gris ultra claro */
+    --color-blanco: #ffffff;
+    --espaciado: 1.5rem;
+    --radio: 24px;
+    --gradiente: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%);
+    --sombra: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
